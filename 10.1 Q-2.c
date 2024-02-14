@@ -1,4 +1,6 @@
+//Q.2 Write a Program to check if a given number is divisible by both 3 & 5 or not using UDF.
 //TNRS
+
 #include<stdio.h>
 
 ans(int x)
